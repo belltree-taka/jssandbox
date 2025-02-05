@@ -1,0 +1,23 @@
+{
+  "name": "js-test-env",
+  "version": "1.0.0",
+  "description": "testing environment for JavaScript",
+  "keywords": [
+    "smartapple"
+  ],
+  "homepage": "https://github.com/belltree-taka/jssandbox#readme",
+  "bugs": {
+    "url": "https://github.com/belltree-taka/jssandbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belltree-taka/jssandbox.git"
+  },
+  "license": "ISC",
+  "author": "Takaharu Suzuki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
