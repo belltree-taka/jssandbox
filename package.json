@@ -18,6 +18,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
     "test": "jest"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
   }
 }
